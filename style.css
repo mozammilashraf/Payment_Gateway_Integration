@@ -62,7 +62,7 @@
   /* background-color: blueviolet; */
 }
 .background {
-  background: url("images/bg.jpg");
+  background-image: url("images/bg.jpg");
   background-size: cover;
   background-blend-mode: darken;
 
